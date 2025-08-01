@@ -1,15 +1,5 @@
-Hello World ![wave](https://github.com/Catoos/Catoos/assets/25676851/9754e041-f12b-4969-9774-124557505e46) My name is Tyler Catus
+Hello World ![wave](https://github.com/Catoos/Catoos/assets/25676851/9754e041-f12b-4969-9774-124557505e46) 
 ===================================================================================================================================
-
-Frontend Developer
-------------------
-
-I started programming my junior year of high school in 2017. All because I thought the name "SUPA Computer Engineering" sounded cool. Next thing I know I am writing system.out.println("Hello World"); . During my senior year I took as many programming classes I could from AP Computer Science to technology applications and quickly discovered what I want my career to be.
-
-*   🌍  I'm based in New York
-*   🖥️  See my portfolio at [MyPortfolio](http://tyler-catus.netlify.app/)
-*   ✉️  You can contact me at [TY3Catus@gmail.com](mailto:TY3Catus@gmail.com)
-*   🤝  I'm open to collaborating on Projects
 
 ### Skills 
 <p align="left">
